@@ -1,4 +1,4 @@
-# Java Lab Assignment 3 — Exception Handling & Multithreading
+# Exception Handling & Multithreading
 
 ## Features:
 - Custom Exception (`StudentNotFoundException`)
